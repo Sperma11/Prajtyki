@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Projektant.Server.props" />
+</Project>
