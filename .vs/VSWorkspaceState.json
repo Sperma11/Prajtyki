@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Projektant",
-    "\\Projektant\\Client\\wwwroot\\css"
+    "\\Projektant\\Client"
   ],
-  "SelectedNode": "\\Projektant",
+  "SelectedNode": "\\Projektant\\Client\\_Imports.razor",
   "PreviewInSolutionExplorer": false
 }
